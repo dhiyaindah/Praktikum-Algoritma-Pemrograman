@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649952266 source:e:\dhiya\coolyeah\smt 2\prak alpro\prak 7\binsearch1\main.c
+	"binsearch.h"
+	<stdio.h>
+	<stdlib.h>
+
+1649951656 e:\dhiya\coolyeah\smt 2\prak alpro\prak 7\binsearch1\binsearch.h
+
+1649952467 source:e:\dhiya\coolyeah\smt 2\prak alpro\prak 7\binsearch1\binsearch.c
+	"binsearch.h"
+	<stdio.h>
+
